@@ -4,6 +4,20 @@
 - To Schedule we are using [Scheduler](https://pypi.org/project/scheduler/).
 - Check out the links for furthure understanding.
 
+## Installation packages
+
+1. package
+
+```cmd
+pip install pywhatkit
+```
+
+2. package
+
+```cmd
+pip install scheduler
+```
+
 ## WhatsApp
 
 ```Python
